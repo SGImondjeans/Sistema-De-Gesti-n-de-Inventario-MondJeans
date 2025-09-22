@@ -1,1 +1,1 @@
-# Sistema-De-Gesti-n-de-Inventario-MondJeans
+# Sistema-De-Gestion-de-Inventario-MondJeans
